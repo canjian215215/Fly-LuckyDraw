@@ -1,6 +1,5 @@
 # Fly-LuckyDraw
 
-
 Fly-LuckyDraw，本系统是一款免费开源的滚动抽奖系统，适用于公司年会、大型聚会等各种场景。Fly-LuckDraw是在Magpie-LuckyDraw开源系统的基础上修改而来。
 
 ### 支持特性
@@ -19,18 +18,7 @@ Fly-LuckyDraw，本系统是一款免费开源的滚动抽奖系统，适用于�
 
 ## 一、 使用
 
-### 1. Web端在线使用
-
-[点击使用：https://magpie.wangbaiyuan.cn](https://magpie.wangbaiyuan.cn)
-
-### 2. 桌面版下载安装
-
-下载软件包在本地运行
-- [Windows版](https://github.com/geekeren/Magpie-LuckyDraw/releases)
-- [MAC版](https://github.com/geekeren/Magpie-LuckyDraw/releases)
-- [Linux版](https://github.com/geekeren/Magpie-LuckyDraw/releases)
-
-### 3. 使用Docker本地运行
+### 1. 使用Docker本地运行
 
 本项目已Docker化并托管于Docker hub平台，您可以在安装了Docker环境的情况下执行：
 
@@ -39,7 +27,7 @@ Fly-LuckyDraw，本系统是一款免费开源的滚动抽奖系统，适用于�
 你也可以clone本项目，在本地使用`yarn start` 启动服务
 
 
-### 4. 下载源代码构建运行
+### 2. 下载源代码构建运行
 ```
 git clone https://github.com/canjian215215/Fly-LuckyDraw.git
 cd Fly-LuckyDraw
