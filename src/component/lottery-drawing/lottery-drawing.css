@@ -1,0 +1,49 @@
+.name-cloud-container {
+    position: fixed;
+    bottom:0;
+    pointer-events: none;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.lottery-drawing{
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 700;
+}
+
+header.prize-title{
+    margin: 20px;
+    font-size: 30px;
+}
+
+div.rolling {
+    height: 400px;
+    font-size: 80px;
+}
+
+.rolling .selectedParticipant {
+    font-size: 20px;
+}
+
+
+.rolling .selectedParticipant .name {
+    color: yellow;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.rolling .selectedParticipant .phone {
+    font-size: 20px;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.rolling .selectedParticipant .phone > div {
+    display: inline;
+}
+
+.rolling .selectedParticipant .phone .mask {
+    font-size: 0.7em;
+}
